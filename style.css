@@ -136,6 +136,9 @@ button{
         justify-content: center;
     align-items: flex-start;
     }
+    p{
+        text-align: left;
+    }
 }
 .error-icon,.error-msg{
     position: absolute;
